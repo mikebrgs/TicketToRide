@@ -1,0 +1,145 @@
+{
+  "carriageTypes" : [
+    {
+      "colour" : "blue",
+      "count" : 5
+    },
+    {
+      "colour" : "black",
+      "count" : 5
+    },
+    {
+      "colour" : "white",
+      "count" : 5
+    },
+    {
+      "colour" : "orage",
+      "count" : 5
+    },
+    {
+      "colour" : "red",
+      "count" : 5
+    },
+    {
+      "colour" : "purple",
+      "count" : 5
+    },
+    {
+      "colour" : "yellow",
+      "count" : 5
+    },
+    {
+      "colour" : "rainbow",
+      "count" : 5
+    }
+  ],
+  "tickets" : [
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "points" : 2
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Miami",
+      "points" : 2
+    },
+    {
+      "cityA" : "Boston",
+      "cityB" : "Atlanta",
+      "points" : 3
+    },
+    {
+      "cityA" : "Boston",
+      "cityB" : "Orlando",
+      "points" : 5
+    }
+  ],
+  "pointSystem" : [
+    {
+      "carriages" : 1,
+      "points" : 1
+    },
+    {
+      "carriages" : 2,
+      "points" : 2
+    },
+    {
+      "carriages" : 3,
+      "points" : 3
+    },
+    {
+      "carriages" : 4,
+      "points" : 6
+    },
+    {
+      "carriages" : 5,
+      "points" : 10
+    },
+    {
+      "carriages" : 6,
+      "points" : 15
+    }
+  ],
+  "board" : [
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    },
+    {
+      "cityA" : "New York",
+      "cityB" : "Boston",
+      "colour" : "",
+      "carriages" : 5
+    }
+  ],
+  "playerSettings" : {
+    "carriages" : 30,
+    "startCarriageCards" : 5,
+    "startTickets" : 3
+  }
+}
